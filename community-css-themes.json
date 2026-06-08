@@ -3879,5 +3879,12 @@
     "repo": "kaymade/alice-velvet",
     "screenshot": "alice-velvet-screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Saint Red Paper",
+    "author": "saint0721",
+    "repo": "saint0721/saint-red-paper",
+    "screenshot": "assets/saint-red-paper-community.png",
+    "modes": ["dark", "light"]
   }
 ]
